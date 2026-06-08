@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>L'Apprenant Français ✦ Étude Juice</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Baloo+2:wght@600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <canvas id="bgCanvas" aria-hidden="true"></canvas>
+    <div id="particleLayer" aria-hidden="true"></div>
+
+    <div class="app">
+      <!-- SIDEBAR -->
+      <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+          <div class="logo">
+            <span class="logo-icon">🇫🇷</span>
+            <h1>L'Apprenant<br /><em>Français</em></h1>
+          </div>
+        </div>
+
+        <div class="panel profile-panel">
+          <button class="btn-lang" id="langToggle">
+            <span id="langFlag">🇪🇸</span>
+            <span id="langText">Español</span>
+          </button>
+          <h2 data-i18n="profile">👤 Perfil</h2>
+          <input
+            id="nameInput"
+            type="text"
+            data-i18n-placeholder="p_name"
+            placeholder="Nombre"
+          />
+          <button id="saveProfile" class="btn btn-primary" data-i18n="btn_save">
+            Guardar
+          </button>
+        </div>
+
+        <div class="panel progress-panel">
+          <h2 data-i18n="progression">📚 Progreso</h2>
+          <div id="progressContent">
+            <p>
+              <span data-i18n="time">Tiempo</span>:
+              <span id="studyTimeDisplay">0</span> min
+            </p>
+            <p>
+              <span data-i18n="completed">Vistas</span>:
+              <span id="viewedCount">0</span>
+            </p>
+          </div>
+        </div>
+
+        <div class="panel filter-panel">
+          <h2 data-i18n="filter">🔍 Filtrar</h2>
+          <div class="filter-group">
+            <div class="filter-chips" id="levelFilter">
+              <button class="chip active" data-value="all" data-i18n="all">
+                Todos
+              </button>
+              <button class="chip" data-value="A1">A1</button>
+              <button class="chip" data-value="A2">A2</button>
+              <button class="chip" data-value="B1">B1</button>
+            </div>
+          </div>
+        </div>
+      </aside>
+
+      <!-- MAIN AREA -->
+      <main class="main">
+        <header class="topbar">
+          <button class="sidebar-toggle" id="sidebarToggle">
+            <span></span><span></span><span></span>
+          </button>
+          <h2 id="moduleTitle" data-i18n="nav_explore">Explorar</h2>
+        </header>
+
+        <nav class="nav-tabs">
+          <button class="tab-btn active" data-view="explore">
+            <span class="tab-icon">🗺</span>
+            <span data-i18n="nav_explore">Explorar</span>
+          </button>
+          <button class="tab-btn" data-view="vocab">
+            <span class="tab-icon">🃏</span>
+            <span data-i18n="nav_vocab">Vocabulario</span>
+          </button>
+          <button class="tab-btn" data-view="daily">
+            <span class="tab-icon">☀️</span>
+            <span data-i18n="nav_daily">Diario</span>
+          </button>
+          <button
+            class="tab-btn"
+            data-view="lesson"
+            id="lessonTab"
+            style="display: none"
+          >
+            <span class="tab-icon">📖</span>
+            <span data-i18n="nav_lesson">Lección</span>
+          </button>
+        </nav>
+
+        <!-- VIEWS -->
+        <section class="view" id="view-explore">
+          <div class="lesson-grid" id="lessonGrid"></div>
+        </section>
+
+        <section class="view hidden" id="view-lesson">
+          <div class="lesson-header">
+            <button class="btn btn-ghost" id="backBtn" data-i18n="btn_back">
+              ← Volver
+            </button>
+            <h2 id="lessonTitle"></h2>
+          </div>
+          <article class="lesson-content">
+            <div class="content-card">
+              <p id="lessonDescription" class="desc"></p>
+              <div class="divider"></div>
+              <p id="lessonContentMain"></p>
+            </div>
+            <div class="content-card examples">
+              <h3 data-i18n="label_examples">💬 Ejemplos</h3>
+              <div id="examplesList"></div>
+            </div>
+            <div class="content-card tips">
+              <h3 data-i18n="label_tips">💡 Consejos</h3>
+              <ul id="tipsList"></ul>
+            </div>
+          </article>
+          <div class="lesson-footer">
+            <button
+              id="prevLessonBtn"
+              class="btn btn-ghost"
+              data-i18n="btn_prev"
+            >
+              ← Anterior
+            </button>
+            <button
+              id="nextLessonBtn"
+              class="btn btn-primary"
+              data-i18n="btn_next"
+            >
+              Siguiente →
+            </button>
+          </div>
+        </section>
+
+        <section class="view hidden" id="view-vocab">
+          <div class="vocab-grid" id="vocabGrid"></div>
+        </section>
+
+        <section class="view hidden" id="view-daily">
+          <div class="daily-hero">
+            <h3 data-i18n="daily_title">Tu estudio de hoy</h3>
+            <div id="dailySequence"></div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

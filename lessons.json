@@ -1,0 +1,1872 @@
+[
+  {
+    "id": 1,
+    "level": "A1",
+    "category": "Salutations",
+    "title": "Les salutations de base",
+    "description": "Apprends à saluer en français selon le moment de la journée et le contexte.",
+    "content": "En français, les salutations varient selon le moment de la journée et le niveau de formalité. 'Bonjour' est la salutation universelle utilisée du matin jusqu'au soir. 'Bonsoir' s'utilise à partir du soir. 'Bonne nuit' se dit uniquement au moment de se coucher. 'Salut' est une salutation informelle entre amis.",
+    "examples": [
+      {
+        "french": "Bonjour, comment allez-vous ?",
+        "spanish": "Buenos días, ¿cómo está usted?",
+        "note": "Formal"
+      },
+      {
+        "french": "Salut, ça va ?",
+        "spanish": "Hola, ¿qué tal?",
+        "note": "Informal"
+      },
+      {
+        "french": "Bonsoir, madame.",
+        "spanish": "Buenas noches, señora.",
+        "note": "En la tarde/noche"
+      },
+      {
+        "french": "Bonne nuit, dors bien !",
+        "spanish": "Buenas noches, ¡duerme bien!",
+        "note": "Al despedirse por la noche"
+      }
+    ],
+    "tips": [
+      "En Francia es muy importante saludar al entrar a una tienda o restaurante.",
+      "'Bonjour' puede usarse a cualquier hora del día.",
+      "Con personas mayores o desconocidos, usa 'vous' (usted) en lugar de 'tu' (tú)."
+    ],
+    "pronunciation": "Le 'r' français est guttural. Dans 'bonjour', le 'r' final est doux."
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "category": "Présentation",
+    "title": "Se présenter",
+    "description": "Aprende a presentarte en francés: nombre, edad, origen y profesión.",
+    "content": "Pour se présenter en français, on utilise le verbe 'être' pour l'identité et les descriptions, et le verbe 'avoir' pour l'âge et certaines possessions. La structure de base est: Je m'appelle + [nom], J'ai + [âge] + ans, Je suis + [nationalité/profession], J'habite à + [ville].",
+    "examples": [
+      {
+        "french": "Je m'appelle Marie.",
+        "spanish": "Me llamo Marie.",
+        "note": "Presentación del nombre"
+      },
+      {
+        "french": "J'ai vingt-cinq ans.",
+        "spanish": "Tengo veinticinco años.",
+        "note": "La edad usa AVOIR, no ÊTRE"
+      },
+      {
+        "french": "Je suis étudiant(e).",
+        "spanish": "Soy estudiante.",
+        "note": "Profesión con ÊTRE"
+      },
+      {
+        "french": "J'habite à Paris.",
+        "spanish": "Vivo en París.",
+        "note": "Ciudad de residencia"
+      },
+      {
+        "french": "Je suis français(e).",
+        "spanish": "Soy francés/francesa.",
+        "note": "Nationalité"
+      }
+    ],
+    "tips": [
+      "En francés, la edad siempre se expresa con AVOIR (tener): 'J'ai vingt ans' (Tengo veinte años).",
+      "La profesión no necesita artículo: 'Je suis médecin' (no 'Je suis un médecin').",
+      "La nacionalité como adjetivo no lleva mayúscula: 'je suis français'."
+    ],
+    "pronunciation": "Le 'e' final de 'étudiant' ne se prononce pas. Les mots féminins ajoutent un 'e': étudiante."
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "category": "Grammaire",
+    "title": "Le verbe ÊTRE au présent",
+    "description": "La conjugación del verbo ÊTRE (ser/estar) en presente de indicativo.",
+    "content": "Le verbe ÊTRE est un des verbes les plus importants en français. Il est irrégulier et doit être mémorisé. Il s'utilise pour décrire l'identité, la nationalité, la profession, l'état physique et émotionnel, et pour former d'autres temps verbaux.",
+    "examples": [
+      {
+        "french": "Je suis → Yo soy/estoy",
+        "spanish": "1ª persona singular",
+        "note": ""
+      },
+      {
+        "french": "Tu es → Tú eres/estás",
+        "spanish": "2ª persona singular (informal)",
+        "note": ""
+      },
+      {
+        "french": "Il/Elle/On est → Él/Ella/Uno es",
+        "spanish": "3ª persona singular",
+        "note": ""
+      },
+      {
+        "french": "Nous sommes → Nosotros somos",
+        "spanish": "1ª persona plural",
+        "note": ""
+      },
+      {
+        "french": "Vous êtes → Ustedes/Vosotros sois",
+        "spanish": "2ª persona plural o formal",
+        "note": ""
+      },
+      {
+        "french": "Ils/Elles sont → Ellos/Ellas son",
+        "spanish": "3ª persona plural",
+        "note": ""
+      }
+    ],
+    "tips": [
+      "ÊTRE es completamente irregular — no sigue ningún patrón regular.",
+      "'On' puede significar 'nosotros' en el habla cotidiana: 'On est fatigués' = Estamos cansados.",
+      "'Vous' se usa tanto para el plural como para el formal singular."
+    ],
+    "pronunciation": "Attention: 'sommes' se prononce [som], 'êtes' se prononce [et]."
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "category": "Grammaire",
+    "title": "Le verbe AVOIR au présent",
+    "description": "La conjugación del verbo AVOIR (tener/haber) en presente.",
+    "content": "AVOIR est le deuxième verbe fondamental du français. Il exprime la possession, l'âge, certains états physiques ('J'ai faim' = tengo hambre), et sert d'auxiliaire pour former les temps composés (passé composé). Son usage diffère souvent de l'espagnol.",
+    "examples": [
+      {
+        "french": "J'ai → Yo tengo",
+        "spanish": "1ª persona (la apostrophe remplace le 'e' de 'je')",
+        "note": ""
+      },
+      {
+        "french": "Tu as → Tú tienes",
+        "spanish": "2ª persona singular",
+        "note": ""
+      },
+      {
+        "french": "Il/Elle a → Él/Ella tiene",
+        "spanish": "3ª persona singular",
+        "note": ""
+      },
+      {
+        "french": "Nous avons → Nosotros tenemos",
+        "spanish": "1ª persona plural",
+        "note": ""
+      },
+      {
+        "french": "Vous avez → Ustedes/Vosotros tenéis",
+        "spanish": "2ª persona plural/formal",
+        "note": ""
+      },
+      {
+        "french": "Ils/Elles ont → Ellos/Ellas tienen",
+        "spanish": "3ª persona plural",
+        "note": ""
+      }
+    ],
+    "tips": [
+      "Expressions importantes avec AVOIR: avoir faim (tener hambre), avoir soif (tener sed), avoir chaud (tener calor), avoir froid (tener frío), avoir raison (tener razón).",
+      "La liaison est obligatoire: 'ils ont' se prononce [ilz-ɔ̃].",
+      "J'ai + age + ans: 'J'ai vingt ans' — nunca se usa ÊTRE para la edad."
+    ],
+    "pronunciation": "Le 's' final de 'avons' et 'avez' ne se prononce pas seul, mais se lie devant une voyelle."
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "category": "Vocabulaire",
+    "title": "Les chiffres de 1 à 20",
+    "description": "Los números del 1 al 20 en francés, esenciales para el día a día.",
+    "content": "Les chiffres en français suivent un système logique jusqu'à 16, puis changent légèrement. De 17 à 19, on combine 'dix' + le chiffre. Il est essentiel de les maîtriser pour parler de l'heure, des prix, des dates et des numéros de téléphone.",
+    "examples": [
+      {
+        "french": "1-un, 2-deux, 3-trois, 4-quatre, 5-cinq",
+        "spanish": "uno, dos, tres, cuatro, cinco",
+        "note": ""
+      },
+      {
+        "french": "6-six, 7-sept, 8-huit, 9-neuf, 10-dix",
+        "spanish": "seis, siete, ocho, nueve, diez",
+        "note": ""
+      },
+      {
+        "french": "11-onze, 12-douze, 13-treize, 14-quatorze",
+        "spanish": "once, doce, trece, catorce",
+        "note": ""
+      },
+      {
+        "french": "15-quinze, 16-seize, 17-dix-sept, 18-dix-huit",
+        "spanish": "quince, dieciséis, diecisiete, dieciocho",
+        "note": ""
+      },
+      {
+        "french": "19-dix-neuf, 20-vingt",
+        "spanish": "diecinueve, veinte",
+        "note": "'Vingt' est irrégulier"
+      }
+    ],
+    "tips": [
+      "Le 'q' de 'cinq' se prononce quand le mot est seul, mais parfois pas dans une phrase rapide.",
+      "'Huit' et 'onze' ne font pas la liaison: 'les huit' [le-ɥit].",
+      "Mémorise les chiffres en groupes de 5 pour faciliter l'apprentissage."
+    ],
+    "pronunciation": "Attention aux consonnes finales: 'cinq' [sɛ̃k], 'six' [sis], 'sept' [sɛt], 'huit' [ɥit], 'dix' [dis]."
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "category": "Grammaire",
+    "title": "Les articles définis et indéfinis",
+    "description": "El sistema de artículos en francés: le, la, les, un, une, des.",
+    "content": "En français, tous les noms ont un genre (masculin ou féminin) et un nombre (singulier ou pluriel). Les articles s'accordent avec le nom. Les articles définis (le, la, les) parlent de quelque chose de spécifique. Les articles indéfinis (un, une, des) parlent de quelque chose de non-spécifique.",
+    "examples": [
+      {
+        "french": "le livre (m.s.) / la table (f.s.)",
+        "spanish": "el libro / la mesa",
+        "note": "Artículos definidos singulares"
+      },
+      {
+        "french": "les livres / les tables",
+        "spanish": "los libros / las mesas",
+        "note": "Artículo definido plural (unisex)"
+      },
+      {
+        "french": "un homme / une femme",
+        "spanish": "un hombre / una mujer",
+        "note": "Artículos indefinidos singulares"
+      },
+      {
+        "french": "des enfants / des maisons",
+        "spanish": "unos niños / unas casas",
+        "note": "Artículo indefinido plural"
+      },
+      {
+        "french": "l'ami / l'amie",
+        "spanish": "el amigo / la amiga",
+        "note": "Elision ante vocal o h muda"
+      }
+    ],
+    "tips": [
+      "Ante vocal o h muda, 'le' y 'la' se convierten en 'l'': l'école, l'hôpital.",
+      "No hay forma de saber el género de una palabra con certeza — hay que aprenderlo con cada palabra.",
+      "Las palabras que terminan en '-ion' (nation, action) son casi siempre femeninas."
+    ],
+    "pronunciation": "Le 's' de 'les' et 'des' se lie avec les mots commençant par une voyelle: 'les amis' [lez-ami]."
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "category": "Vocabulaire",
+    "title": "La famille",
+    "description": "El vocabulario esencial para hablar de la familia en francés.",
+    "content": "Le vocabulaire de la famille est fondamental pour parler de soi et de son entourage. En français, les membres de la famille ont des formes masculines et féminines distinctes. Le mot 'parents' peut signifier 'parents' (père et mère) ou 'relatives' (proches) selon le contexte.",
+    "examples": [
+      {
+        "french": "le père / la mère",
+        "spanish": "el padre / la madre",
+        "note": ""
+      },
+      {
+        "french": "le frère / la sœur",
+        "spanish": "el hermano / la hermana",
+        "note": ""
+      },
+      {
+        "french": "le grand-père / la grand-mère",
+        "spanish": "el abuelo / la abuela",
+        "note": ""
+      },
+      {
+        "french": "le fils / la fille",
+        "spanish": "el hijo / la hija",
+        "note": "'La fille' también significa 'la chica'"
+      },
+      {
+        "french": "l'oncle / la tante",
+        "spanish": "el tío / la tía",
+        "note": ""
+      },
+      {
+        "french": "le neveu / la nièce",
+        "spanish": "el sobrino / la sobrina",
+        "note": ""
+      },
+      {
+        "french": "les parents",
+        "spanish": "los padres / los familiares",
+        "note": "Contexto determina el significado"
+      }
+    ],
+    "tips": [
+      "Para hablar de tu familia usa el posesivo 'mon/ma/mes': mon père, ma mère, mes parents.",
+      "'Ma sœur' se convierte en 'mon' ante vocal: 'mon amie' (mi amiga), aunque sea femenino.",
+      "Los apellidos no cambian en plural en francés: les Dupont (la familia Dupont)."
+    ],
+    "pronunciation": "Le 'e' dans 'frère' et 'mère' est ouvert et long [ɛ:]. La liaison dans 'mes enfants' est obligatoire [mez-ɑ̃fɑ̃]."
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "category": "Vocabulaire",
+    "title": "Les couleurs",
+    "description": "Los colores en francés y cómo usarlos como adjetivos.",
+    "content": "Les couleurs en français fonctionnent comme des adjectifs et s'accordent généralement en genre et en nombre avec le nom. Cependant, certaines couleurs composées ou nommées d'après des objets (marron, orange, rose) sont invariables. La position de l'adjectif de couleur est toujours après le nom.",
+    "examples": [
+      {
+        "french": "rouge, bleu(e), vert(e), jaune",
+        "spanish": "rojo, azul, verde, amarillo",
+        "note": "Colores básicos"
+      },
+      {
+        "french": "blanc/blanche, noir(e), gris(e)",
+        "spanish": "blanco, negro, gris",
+        "note": "Blanco es irregular"
+      },
+      {
+        "french": "une robe rouge / des robes rouges",
+        "spanish": "un vestido rojo / unos vestidos rojos",
+        "note": "Acuerdo con el nombre"
+      },
+      {
+        "french": "un pantalon marron / des pantalons marron",
+        "spanish": "un pantalón café / unos pantalones café",
+        "note": "Marron es invariable"
+      },
+      {
+        "french": "les yeux bleus / les yeux verts",
+        "spanish": "los ojos azules / los ojos verdes",
+        "note": "Siempre después del nombre"
+      }
+    ],
+    "tips": [
+      "Los colores van DESPUÉS del nombre en francés: 'une voiture rouge' (un coche rojo), nunca 'une rouge voiture'.",
+      "Colores invariables (no cambian): marron, orange, rose, beige, bordeaux.",
+      "Para decir 'claro' u 'oscuro': bleu clair (azul claro), bleu foncé (azul oscuro)."
+    ],
+    "pronunciation": "Le 't' final de 'vert' ne se prononce pas au singulier, mais se lie au pluriel: 'les yeux verts' [le-z-jø-ver]."
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "category": "Conversation",
+    "title": "Au café — Commander une boisson",
+    "description": "Aprende a pedir en un café francés como un nativo.",
+    "content": "Aller au café est une activité culturelle importante en France. Les Français passent souvent du temps dans les cafés pour se retrouver, travailler ou simplement se détendre. Pour commander, on dit 'Je voudrais' (quisiera) ou 'Un café, s'il vous plaît'. Il est poli de dire 'monsieur' ou 'madame' pour appeler le serveur.",
+    "examples": [
+      {
+        "french": "Un café, s'il vous plaît.",
+        "spanish": "Un café, por favor.",
+        "note": "Pedido básico"
+      },
+      {
+        "french": "Je voudrais un thé au lait.",
+        "spanish": "Quisiera un té con leche.",
+        "note": "Forma más educada"
+      },
+      {
+        "french": "L'addition, s'il vous plaît !",
+        "spanish": "¡La cuenta, por favor!",
+        "note": "Para pedir la cuenta"
+      },
+      {
+        "french": "C'est combien ?",
+        "spanish": "¿Cuánto cuesta?",
+        "note": "Precio informal"
+      },
+      {
+        "french": "Vous avez une table libre ?",
+        "spanish": "¿Tienen una mesa libre?",
+        "note": "Al llegar al café"
+      }
+    ],
+    "tips": [
+      "En Francia, el café (espresso) es pequeño y fuerte. Si quieres algo más grande pide 'un grand café' o 'un café allongé'.",
+      "El servicio está incluido (le service est compris), pero dejar propina es bienvenido.",
+      "Para llamar al mesero: 'Excusez-moi !' o 'S'il vous plaît !', nunca chasquear los dedos."
+    ],
+    "pronunciation": "Le 's' final dans 's'il vous plaît' ne se prononce pas. 'Plaît' se prononce [plɛ]."
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "category": "Grammaire",
+    "title": "Les adjectifs possessifs",
+    "description": "Los adjetivos posesivos en francés: mon, ma, mes, ton, ta, tes...",
+    "content": "Les adjectifs possessifs s'accordent avec le nom qu'ils accompagnent (et non avec le possesseur). Cela peut créer de la confusion pour les hispanophones. Par exemple, 'son livre' peut signifier 'su libro' (de él, de ella ou même de vous).",
+    "examples": [
+      {
+        "french": "mon/ma/mes → mi/mis",
+        "spanish": "1ª persona singular",
+        "note": "mon père, ma mère, mes parents"
+      },
+      {
+        "french": "ton/ta/tes → tu/tus",
+        "spanish": "2ª persona singular",
+        "note": "ton ami, ta sœur, tes livres"
+      },
+      {
+        "french": "son/sa/ses → su/sus",
+        "spanish": "3ª persona singular (m/f)",
+        "note": "son chat, sa voiture, ses enfants"
+      },
+      {
+        "french": "notre/nos → nuestro/nuestros",
+        "spanish": "1ª persona plural",
+        "note": "notre maison, nos amis"
+      },
+      {
+        "french": "votre/vos → vuestro/vuestros",
+        "spanish": "2ª persona plural o formal",
+        "note": "votre chambre, vos affaires"
+      },
+      {
+        "french": "leur/leurs → su/sus (de ellos)",
+        "spanish": "3ª persona plural",
+        "note": "leur chien, leurs enfants"
+      }
+    ],
+    "tips": [
+      "Ante vocal o h muda, ma/ta/sa se convierten en mon/ton/son: 'mon amie' (mi amiga, aunque sea femenino).",
+      "Son/sa/ses puede significar 'su' de él, de ella o incluso de usted — el contexto aclara.",
+      "La concordancia es con el OBJETO, no con el dueño: 'Pierre et sa mère' (Pierre y su madre, mère es femenino)."
+    ],
+    "pronunciation": "La liaison avec 'mes', 'tes', 'ses' + voyelle est obligatoire: 'mes amis' [mez-ami]."
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "category": "Vocabulaire",
+    "title": "Les jours et les mois",
+    "description": "Los días de la semana y los meses del año en francés.",
+    "content": "En français, les jours de la semaine et les mois ne prennent pas de majuscule (sauf en début de phrase). La semaine commence le lundi. Pour parler d'habitudes, on utilise 'le + jour': 'le lundi' = los lunes. Pour parler d'un jour précis: 'lundi' sans article.",
+    "examples": [
+      {
+        "french": "lundi, mardi, mercredi, jeudi, vendredi",
+        "spanish": "lunes, martes, miércoles, jueves, viernes",
+        "note": "Días laborales"
+      },
+      {
+        "french": "samedi, dimanche",
+        "spanish": "sábado, domingo",
+        "note": "Fin de semana"
+      },
+      {
+        "french": "janvier, février, mars, avril, mai, juin",
+        "spanish": "enero, febrero, marzo, abril, mayo, junio",
+        "note": "Primer semestre"
+      },
+      {
+        "french": "juillet, août, septembre, octobre, novembre, décembre",
+        "spanish": "julio, agosto, septiembre, octubre, noviembre, diciembre",
+        "note": "Segundo semestre"
+      },
+      {
+        "french": "Le lundi, je vais à la gym.",
+        "spanish": "Los lunes voy al gimnasio.",
+        "note": "Hábito con artículo"
+      }
+    ],
+    "tips": [
+      "Los días y meses en francés siempre se escriben en minúscula: lundi, janvier.",
+      "Para las fechas: 'le + número + mois': 'le 14 juillet' (el 14 de julio).",
+      "Excepción: el primer día del mes usa 'premier': 'le 1er janvier' (el 1 de enero)."
+    ],
+    "pronunciation": "Attention: 'août' se prononce [u] ou [ut], 'juillet' se prononce [ʒɥijɛ]."
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "category": "Grammaire",
+    "title": "La négation avec NE...PAS",
+    "description": "Cómo construir oraciones negativas en francés.",
+    "content": "La negación básica en francés usa dos palabras: 'ne' antes del verbo y 'pas' después. Forman un sándwich alrededor del verbo. En el lenguaje oral informal, el 'ne' suele desaparecer, quedando solo el 'pas'. Hay otras negaciones: ne...jamais (nunca), ne...plus (ya no), ne...rien (nada).",
+    "examples": [
+      {
+        "french": "Je ne parle pas espagnol.",
+        "spanish": "No hablo español.",
+        "note": "Negación básica"
+      },
+      {
+        "french": "Il n'est pas français.",
+        "spanish": "Él no es francés.",
+        "note": "Elision de 'ne' ante vocal"
+      },
+      {
+        "french": "Je ne mange jamais de viande.",
+        "spanish": "Nunca como carne.",
+        "note": "Ne...jamais = nunca"
+      },
+      {
+        "french": "Elle ne travaille plus ici.",
+        "spanish": "Ella ya no trabaja aquí.",
+        "note": "Ne...plus = ya no"
+      },
+      {
+        "french": "Je ne sais rien.",
+        "spanish": "No sé nada.",
+        "note": "Ne...rien = nada"
+      }
+    ],
+    "tips": [
+      "En el habla coloquial, 'ne' a menudo desaparece: 'Je sais pas' en lugar de 'Je ne sais pas'.",
+      "Con el artículo indefinido, después de una negación, un/une/des se convierten en 'de': 'J'ai une voiture' → 'Je n'ai pas de voiture'.",
+      "La negación en imperativo: 'Ne pars pas !' (¡No te vayas!)"
+    ],
+    "pronunciation": "L'élision de 'ne' en 'n'' est obligatoire devant une voyelle: n'est pas, n'habite pas."
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "category": "Vocabulaire",
+    "title": "Le corps humain",
+    "description": "Las partes del cuerpo humano en francés.",
+    "content": "Connaître le vocabulaire du corps est essentiel pour parler de sa santé, décrire une personne ou comprendre des instructions. En français, on utilise les articles définis avec les parties du corps (plus souvent que les possessifs): 'J'ai mal à la tête' (Me duele la cabeza) plutôt que 'ma tête fait mal'.",
+    "examples": [
+      {
+        "french": "la tête, les cheveux, les yeux (m.pl.), le nez, la bouche",
+        "spanish": "la cabeza, el cabello, los ojos, la nariz, la boca",
+        "note": "Cara"
+      },
+      {
+        "french": "les oreilles (f.pl.), le front, les joues, le menton",
+        "spanish": "las orejas, la frente, las mejillas, el mentón",
+        "note": "Cara cont."
+      },
+      {
+        "french": "le cou, les épaules, le dos, la poitrine, le ventre",
+        "spanish": "el cuello, los hombros, la espalda, el pecho, el vientre",
+        "note": "Torso"
+      },
+      {
+        "french": "le bras, le coude, la main, les doigts",
+        "spanish": "el brazo, el codo, la mano, los dedos",
+        "note": "Brazo"
+      },
+      {
+        "french": "la jambe, le genou, le pied, les orteils",
+        "spanish": "la pierna, la rodilla, el pie, los dedos del pie",
+        "note": "Pierna"
+      }
+    ],
+    "tips": [
+      "Para decir que algo duele: 'J'ai mal à + article + partie du corps': J'ai mal au dos (Me duele la espalda).",
+      "'Mal au cœur' NO significa dolor al corazón, sino náuseas.",
+      "Los ojos (les yeux) es irregular — el singular es 'un œil'."
+    ],
+    "pronunciation": "Le 'x' de 'yeux' se prononce [z] en liaison: 'les yeux' [le-z-jø]. 'Œil' se prononce [œj]."
+  },
+  {
+    "id": 14,
+    "level": "A2",
+    "category": "Grammaire",
+    "title": "Le passé composé avec AVOIR",
+    "description": "El tiempo pasado más común en francés: cómo se forma y usa.",
+    "content": "Le passé composé est le temps du passé le plus utilisé dans la conversation. Il se forme avec un auxiliaire (avoir ou être) + le participe passé. Avec AVOIR: sujet + avoir (conjugué) + participe passé. Le participe passé des verbes réguliers en -ER se forme en ajoutant -É: parler → parlé, manger → mangé.",
+    "examples": [
+      {
+        "french": "J'ai mangé une pizza hier.",
+        "spanish": "Comí/He comido una pizza ayer.",
+        "note": "Verbo -ER regular"
+      },
+      {
+        "french": "Tu as fini ton travail ?",
+        "spanish": "¿Terminaste tu trabajo?",
+        "note": "Verbo -IR regular"
+      },
+      {
+        "french": "Il a pris le bus ce matin.",
+        "spanish": "Él tomó el autobús esta mañana.",
+        "note": "Verbo irrégulier"
+      },
+      {
+        "french": "Nous avons vu un bon film.",
+        "spanish": "Vimos una buena película.",
+        "note": "Voir → vu"
+      },
+      {
+        "french": "Vous avez fait vos devoirs ?",
+        "spanish": "¿Hicieron sus tareas?",
+        "note": "Faire → fait"
+      }
+    ],
+    "tips": [
+      "Participios irregulares importantes: avoir→eu, être→été, faire→fait, voir→vu, prendre→pris, venir→venu.",
+      "Con AVOIR, el participe pasé ne s'accorde PAS avec le sujet (a moins d'un COD placé avant).",
+      "Le passé composé s'emploie pour des actions terminées, contraires à l'imparfait qui décrit des états ou habitudes."
+    ],
+    "pronunciation": "Le 'é' du participe passé est toujours fermé et clair: mangé [mɑ̃ʒe], parlé [paʁle]."
+  },
+  {
+    "id": 15,
+    "level": "A2",
+    "category": "Grammaire",
+    "title": "Le passé composé avec ÊTRE",
+    "description": "Los verbos que se conjugan con ÊTRE en passé composé.",
+    "content": "Certains verbes utilisent ÊTRE (et non avoir) comme auxiliaire au passé composé. Ces verbes sont principalement des verbes de mouvement et de changement d'état. Le moyen mnémotechnique classique est la 'Maison de Dr. et Mrs. Vandertramp': Monter, Rester, Sortir, Venir, Aller, Naître, Descendre, Entrer, Rentrer, Tomber, Retourner, Arriver, Mourir, Partir.",
+    "examples": [
+      {
+        "french": "Je suis allé(e) au marché.",
+        "spanish": "Fui al mercado.",
+        "note": "L'accord avec le sujet"
+      },
+      {
+        "french": "Elle est arrivée en retard.",
+        "spanish": "Ella llegó tarde.",
+        "note": "Accord féminin: +e"
+      },
+      {
+        "french": "Ils sont partis à midi.",
+        "spanish": "Ellos se fueron al mediodía.",
+        "note": "Accord masculin pluriel: +s"
+      },
+      {
+        "french": "Nous sommes nés en 2000.",
+        "spanish": "Nacimos en el año 2000.",
+        "note": "Naître → né(s)"
+      },
+      {
+        "french": "Tu es tombé(e) ?",
+        "spanish": "¿Te caíste?",
+        "note": "Tomber → tombé(e)"
+      }
+    ],
+    "tips": [
+      "Con ÊTRE, el participio pasado SIEMPRE concuerda con el sujeto en género y número.",
+      "Todos los verbos pronominales (se lever, se laver...) también usan ÊTRE como auxiliaire.",
+      "Una regla práctica: si el verbo describe ir/venir de un lugar o un cambio de estado, probablemente use ÊTRE."
+    ],
+    "pronunciation": "Dans 'je suis allé', le 's' de 'suis' se lie avec 'allé': [sɥiz-ale]. Attention à la prononciation de 'né' [ne] et 'allé' [ale]."
+  },
+  {
+    "id": 16,
+    "level": "A2",
+    "category": "Grammaire",
+    "title": "L'imparfait",
+    "description": "El imperfecto en francés: descripciones y hábitos en el pasado.",
+    "content": "L'imparfait s'utilise pour décrire des états, des habitudes ou des actions en cours dans le passé. Pour le former: radical de la 1ère personne du pluriel (nous) au présent + terminaisons: -ais, -ais, -ait, -ions, -iez, -aient. Exception: ÊTRE → j'étais (radical: ét-).",
+    "examples": [
+      {
+        "french": "Quand j'étais enfant, j'aimais le chocolat.",
+        "spanish": "Cuando era niño, me gustaba el chocolate.",
+        "note": "Hábito pasado"
+      },
+      {
+        "french": "Il pleuvait ce matin.",
+        "spanish": "Llovía esta mañana.",
+        "note": "Descripción del tiempo"
+      },
+      {
+        "french": "Nous habitions à Lyon.",
+        "spanish": "Vivíamos en Lyon.",
+        "note": "Estado pasado"
+      },
+      {
+        "french": "Elle lisait quand le téléphone a sonné.",
+        "spanish": "Ella leía cuando el teléfono sonó.",
+        "note": "Acción interrumpida (imparfait + passé composé)"
+      },
+      {
+        "french": "Vous travailliez beaucoup avant.",
+        "spanish": "Ustedes trabajaban mucho antes.",
+        "note": "Comparación pasado/presente"
+      }
+    ],
+    "tips": [
+      "Imparfait vs Passé composé: imparfait = acción habitual o descripción; passé composé = acción puntual terminada.",
+      "El radical de NOUS sirve para casi todos los verbos: nous mangeons → mang- + terminaisons.",
+      "Verbos en -cer y -ger tienen cambios ortográficos: je mangeais (no mangais), je commençais."
+    ],
+    "pronunciation": "Les terminaisons -ais, -ait, -aient se prononcent toutes de la même façon: [ɛ]. Seul le contexte les distingue."
+  },
+  {
+    "id": 17,
+    "level": "A2",
+    "category": "Vocabulaire",
+    "title": "La nourriture et les repas",
+    "description": "El vocabulario de la comida, las comidas del día y cómo pedir en un restaurante.",
+    "content": "La gastronomie est au cœur de la culture française. Les Français font généralement trois repas: le petit-déjeuner (matin), le déjeuner (midi) et le dîner (soir). Le repas est un moment social important. La cuisine française est classée au patrimoine culturel immatériel de l'UNESCO.",
+    "examples": [
+      {
+        "french": "le pain, le beurre, le fromage, la charcuterie",
+        "spanish": "el pan, la mantequilla, el queso, los embutidos",
+        "note": "Básicos de la mesa francesa"
+      },
+      {
+        "french": "la viande, le poisson, les légumes, les fruits",
+        "spanish": "la carne, el pescado, los vegetales, las frutas",
+        "note": "Grupos alimenticios"
+      },
+      {
+        "french": "Je voudrais le menu à 15 euros.",
+        "spanish": "Quisiera el menú de 15 euros.",
+        "note": "En el restaurante"
+      },
+      {
+        "french": "Qu'est-ce que vous recommandez ?",
+        "spanish": "¿Qué recomienda usted?",
+        "note": "Pedir recomendación"
+      },
+      {
+        "french": "C'était délicieux, merci !",
+        "spanish": "¡Estuvo delicioso, gracias!",
+        "note": "Después de comer"
+      }
+    ],
+    "tips": [
+      "Le menu à prix fixe (menú de precio fijo) incluye generalmente entrée + plat + dessert y es más económico que à la carte.",
+      "En France, il est poli de garder les deux mains sur la table (pas dans les genoux) pendant le repas.",
+      "'Bon appétit' se dit avant de commencer à manger."
+    ],
+    "pronunciation": "Le 't' final de 'petit' ne se prononce pas seul mais se lie: 'petit ami' [pəti-t-ami]. 'Dîner' a un accent circonflexe sur le 'î'."
+  },
+  {
+    "id": 18,
+    "level": "A2",
+    "category": "Conversation",
+    "title": "Demander et indiquer le chemin",
+    "description": "Cómo pedir y dar indicaciones en francés.",
+    "content": "Savoir demander et comprendre un itinéraire est essentiel pour se déplacer en France. Les expressions clés incluent: 'Où est...?' (¿Dónde está...?), 'Comment aller à...?' (¿Cómo llegar a...?), 'Tournez à gauche/droite' (Dobla a la izquierda/derecha), 'Continuez tout droit' (Sigue recto).",
+    "examples": [
+      {
+        "french": "Excusez-moi, où est la gare, s'il vous plaît ?",
+        "spanish": "Perdone, ¿dónde está la estación, por favor?",
+        "note": "Pregunta básica"
+      },
+      {
+        "french": "Tournez à gauche au feu.",
+        "spanish": "Dobla a la izquierda en el semáforo.",
+        "note": "Instrucción"
+      },
+      {
+        "french": "C'est tout droit, à 200 mètres.",
+        "spanish": "Es todo recto, a 200 metros.",
+        "note": "Dirección + distancia"
+      },
+      {
+        "french": "Prenez la deuxième rue à droite.",
+        "spanish": "Tome la segunda calle a la derecha.",
+        "note": "Números ordinales"
+      },
+      {
+        "french": "C'est en face de la mairie.",
+        "spanish": "Está en frente del ayuntamiento.",
+        "note": "Referencia de ubicación"
+      }
+    ],
+    "tips": [
+      "Vocabulario de ubicación: à gauche (izquierda), à droite (derecha), tout droit (recto), en face de (enfrente de), près de (cerca de), loin de (lejos de).",
+      "En Francia es normal que la gente no sepa exactamente la dirección — no dudes en preguntar a varias personas.",
+      "Siempre empieza con 'Excusez-moi' o 'Pardon' para ser educado/a."
+    ],
+    "pronunciation": "Le 'oi' dans 'droit' se prononce [wa]. 'Gauche' se prononce [goʃ]. Les liaisons sont importantes: 'tout à droite' [tut-a-drwat]."
+  },
+  {
+    "id": 19,
+    "level": "A2",
+    "category": "Grammaire",
+    "title": "Les verbes pronominaux",
+    "description": "Los verbos reflexivos/pronominales en francés: se lever, se coucher, etc.",
+    "content": "Les verbes pronominaux (ou réfléchis) se conjuguent avec un pronom réfléchi (me, te, se, nous, vous, se) qui fait référence au sujet. Ils sont très communs en français pour les activités quotidiennes et les routines. Au passé composé, ils utilisent toujours ÊTRE.",
+    "examples": [
+      {
+        "french": "Je me lève à 7 heures.",
+        "spanish": "Me levanto a las 7.",
+        "note": "Présent"
+      },
+      {
+        "french": "Tu te brosses les dents.",
+        "spanish": "Te cepillas los dientes.",
+        "note": "Routine matinale"
+      },
+      {
+        "french": "Il se rase chaque matin.",
+        "spanish": "Él se afeita cada mañana.",
+        "note": "Routine"
+      },
+      {
+        "french": "Nous nous couchons à 22h.",
+        "spanish": "Nos acostamos a las 10 pm.",
+        "note": "Pluriel"
+      },
+      {
+        "french": "Elle s'est habillée rapidement.",
+        "spanish": "Ella se vistió rápidamente.",
+        "note": "Passé composé avec ÊTRE"
+      }
+    ],
+    "tips": [
+      "Verbos pronominales comunes: se lever (levantarse), se coucher (acostarse), se laver (lavarse), s'appeler (llamarse), se dépêcher (apresurarse), s'ennuyer (aburrirse).",
+      "La negación: 'ne' se coloca antes del pronom réfléchi: 'Je ne me lève pas tôt'.",
+      "En infinitivo, el pronombre concuerda con el sujeto: 'Je dois me lever', 'Tu dois te lever'."
+    ],
+    "pronunciation": "L'apostrophe dans 'je m'appelle' remplace le 'e': [ʒə-ma-pɛl]. La liaison dans 'nous nous appelons' [nu-nuz-apɑ̃lɔ̃]."
+  },
+  {
+    "id": 20,
+    "level": "A2",
+    "category": "Vocabulaire",
+    "title": "Les vêtements et la mode",
+    "description": "Vocabulario de ropa, moda y cómo hablar de lo que llevas puesto.",
+    "content": "La mode est une partie importante de l'identité culturelle française. Paris est considérée la capitale mondiale de la mode. Pour parler de vêtements, on utilise le verbe 'porter' (llevar puesto) pour dire ce qu'on porte, et 's'habiller' (vestirse) pour le processus de vestirse.",
+    "examples": [
+      {
+        "french": "Je porte un jean et un t-shirt.",
+        "spanish": "Llevo puesto un jean y una camiseta.",
+        "note": "Porter = llevar puesto"
+      },
+      {
+        "french": "Elle porte une robe élégante.",
+        "spanish": "Ella lleva un vestido elegante.",
+        "note": ""
+      },
+      {
+        "french": "J'ai besoin de nouvelles chaussures.",
+        "spanish": "Necesito zapatos nuevos.",
+        "note": "Avoir besoin de = necesitar"
+      },
+      {
+        "french": "Cette veste vous va très bien !",
+        "spanish": "¡Esa chaqueta le queda muy bien!",
+        "note": "Aller à quelqu'un = quedarle a alguien"
+      },
+      {
+        "french": "Quelle est votre taille ?",
+        "spanish": "¿Cuál es su talla?",
+        "note": "En la tienda"
+      }
+    ],
+    "tips": [
+      "Ropa básica: une chemise (camisa), un pantalon (pantalón), une jupe (falda), un manteau (abrigo), des chaussures (zapatos), une cravate (corbata).",
+      "'Porter' se usa para ropa, accesorios y también para llevar cosas: 'porter un sac' (llevar una bolsa).",
+      "Las tallas en Francia son diferentes. Para ropa: 36=S, 38=M, 40=L, 42=XL."
+    ],
+    "pronunciation": "Le 't' final de 'vêtement' ne se prononce pas. 'Chemise' se prononce [ʃəmiz], avec un 'e' muet au milieu."
+  },
+  {
+    "id": 21,
+    "level": "A2",
+    "category": "Grammaire",
+    "title": "Le futur proche (aller + infinitif)",
+    "description": "Cómo hablar del futuro inmediato con la construcción aller + infinitivo.",
+    "content": "Le futur proche est la façon la plus courante de parler du futur en français parlé. Il se forme avec: conjugaison de ALLER au présent + verbe à l'infinitif. Il exprime une intention, un plan ou une action qui va se produire bientôt. C'est l'équivalent de 'voy a + infinitivo' en espagnol.",
+    "examples": [
+      {
+        "french": "Je vais étudier ce soir.",
+        "spanish": "Voy a estudiar esta noche.",
+        "note": "Intention"
+      },
+      {
+        "french": "Tu vas manger avec nous ?",
+        "spanish": "¿Vas a comer con nosotros?",
+        "note": "Pregunta"
+      },
+      {
+        "french": "Il va pleuvoir demain.",
+        "spanish": "Va a llover mañana.",
+        "note": "Predicción météo"
+      },
+      {
+        "french": "Nous allons voyager en France.",
+        "spanish": "Vamos a viajar a Francia.",
+        "note": "Plan"
+      },
+      {
+        "french": "Elles ne vont pas venir.",
+        "spanish": "Ellas no van a venir.",
+        "note": "Negación: ne...pas encadra 'aller'"
+      }
+    ],
+    "tips": [
+      "Para la negación, ne...pas encuadra solo el verbo ALLER: 'Je ne vais pas sortir' (no voy a salir).",
+      "El futur proche se usa más en el habla cotidiana; el futur simple es más formal y literario.",
+      "Aller conjugado: je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont."
+    ],
+    "pronunciation": "La liaison dans 'vous allez' est obligatoire [vuz-ale]. Dans 'ils vont', le 't' ne se prononce pas seul."
+  },
+  {
+    "id": 22,
+    "level": "A2",
+    "category": "Conversation",
+    "title": "Au téléphone",
+    "description": "Cómo hablar por teléfono en francés: expresiones y fórmulas.",
+    "content": "Les conversations téléphoniques ont leur propre vocabulaire spécifique en français. On ne dit pas 'C'est moi' mais 'C'est [nom]' pour se présenter. Pour répondre au téléphone: 'Allô' (no 'hola'). Pour demander à parler avec alguien: 'Puis-je parler à...?' ou 'Je voudrais parler à...'",
+    "examples": [
+      {
+        "french": "Allô, c'est Pierre à l'appareil.",
+        "spanish": "Hola, soy Pierre (al teléfono).",
+        "note": "Presentarse por teléfono"
+      },
+      {
+        "french": "Puis-je parler à Madame Dupont ?",
+        "spanish": "¿Puedo hablar con la señora Dupont?",
+        "note": "Pedir a alguien"
+      },
+      {
+        "french": "Ne quittez pas, je vous la passe.",
+        "spanish": "No cuelgue, le paso con ella.",
+        "note": "Poner en espera"
+      },
+      {
+        "french": "Je rappellerai plus tard.",
+        "spanish": "Llamaré de nuevo más tarde.",
+        "note": "Futur simple"
+      },
+      {
+        "french": "Pouvez-vous laisser un message ?",
+        "spanish": "¿Puede dejar un mensaje?",
+        "note": "Messagerie"
+      }
+    ],
+    "tips": [
+      "'Allô' es exclusivo para responder el teléfono — no se usa como saludo en persona.",
+      "Para deletrear: 'Je vais épeler mon nom': A comme Anatole, B comme Berthe...",
+      "En Francia los números de teléfono se dicen en pares: 06 12 34 56 78 = zéro six, douze, trente-quatre, cinquante-six, soixante-dix-huit."
+    ],
+    "pronunciation": "La formule 'à l'appareil' [a-la-pa-rɛj] est une expression idiomatique qui signifie 'al teléfono'. Toujours utiliser cette formule pour se présenter."
+  },
+  {
+    "id": 23,
+    "level": "B1",
+    "category": "Grammaire",
+    "title": "Le subjonctif présent",
+    "description": "El subjuntivo presente en francés: cuándo y cómo usarlo.",
+    "content": "Le subjonctif exprime le doute, la volonté, le sentiment, la nécessité et la possibilité. Il s'utilise principalement dans les propositions subordonnées après 'que'. Formation: radical de la 3ème personne du pluriel au présent + terminaisons -e, -es, -e, -ions, -iez, -ent. Il a des formes irrégulières importantes.",
+    "examples": [
+      {
+        "french": "Il faut que tu étudies.",
+        "spanish": "Es necesario que estudies.",
+        "note": "Nécessité avec 'il faut que'"
+      },
+      {
+        "french": "Je veux que tu viennes.",
+        "spanish": "Quiero que vengas.",
+        "note": "Volonté avec 'vouloir que'"
+      },
+      {
+        "french": "Je suis content(e) que vous soyez ici.",
+        "spanish": "Estoy contento/a de que estéis aquí.",
+        "note": "Sentiment"
+      },
+      {
+        "french": "Bien qu'il soit fatigué, il travaille.",
+        "spanish": "Aunque esté cansado, trabaja.",
+        "note": "Concession avec 'bien que'"
+      },
+      {
+        "french": "Je doute qu'elle ait raison.",
+        "spanish": "Dudo que ella tenga razón.",
+        "note": "Doute"
+      }
+    ],
+    "tips": [
+      "Verbes irréguliers au subjonctif: être→soit, avoir→ait, aller→aille, faire→fasse, pouvoir→puisse, vouloir→veuille, savoir→sache.",
+      "Déclencheurs du subjonctif: il faut que, vouloir que, bien que, pour que, avant que, à moins que.",
+      "Si le sujet est le même dans les deux propositions, on utilise l'infinitif: 'Je veux partir' (et non 'Je veux que je parte')."
+    ],
+    "pronunciation": "La terminaison -ent du subjonctif est muette, comme au présent de l'indicatif. 'Qu'ils soient' se prononce [swa], identique à 'soit'."
+  },
+  {
+    "id": 24,
+    "level": "B1",
+    "category": "Grammaire",
+    "title": "Les pronoms relatifs",
+    "description": "Los pronombres relativos qui, que, dont, où y cómo conectar ideas.",
+    "content": "Les pronoms relatifs permettent de relier deux propositions et d'éviter les répétitions. QUI remplace le sujet. QUE/QU' remplace le complément d'objet direct. DONT remplace un complément introduit par 'de'. OÙ remplace un complément de lieu ou de temps.",
+    "examples": [
+      {
+        "french": "C'est l'étudiant qui a réussi l'examen.",
+        "spanish": "Es el estudiante que aprobó el examen.",
+        "note": "QUI = sujeto"
+      },
+      {
+        "french": "Le livre que je lis est passionnant.",
+        "spanish": "El libro que estoy leyendo es apasionante.",
+        "note": "QUE = objeto directo"
+      },
+      {
+        "french": "C'est le professeur dont je t'ai parlé.",
+        "spanish": "Es el profesor del que te hablé.",
+        "note": "DONT = 'de + quelque chose'"
+      },
+      {
+        "french": "La ville où j'habite est belle.",
+        "spanish": "La ciudad donde vivo es bella.",
+        "note": "OÙ = lugar"
+      },
+      {
+        "french": "Le jour où nous sommes arrivés, il pleuvait.",
+        "spanish": "El día en que llegamos, llovía.",
+        "note": "OÙ = tiempo"
+      }
+    ],
+    "tips": [
+      "QUI ne s'élide jamais: 'l'homme qui aime' (nunca 'qu'aime').",
+      "QUE s'élide devant voyelle: 'le film qu'il regarde'.",
+      "DONT es muy frecuente en francés donde en español diríamos 'cuyo', 'de que', 'del que': 'le problème dont je parle'."
+    ],
+    "pronunciation": "La liaison dans 'que il' → 'qu'il' est obligatoire. Dans 'qui aime', le liaison [ki-ɛm] est recommandée dans le registre soigné."
+  },
+  {
+    "id": 25,
+    "level": "B1",
+    "category": "Conversation",
+    "title": "Exprimer son opinion",
+    "description": "Cómo dar y defender tu opinión en francés con elegancia.",
+    "content": "Exprimer son opinion en français nécessite de connaître des formules variées selon le niveau de certitude et le registre. Les Français apprécient les débats et la nuance dans les opinions. Il est important de savoir nuancer, concéder et contredire poliment.",
+    "examples": [
+      {
+        "french": "À mon avis, c'est une excellente idée.",
+        "spanish": "En mi opinión, es una excelente idea.",
+        "note": "Opinión personal"
+      },
+      {
+        "french": "Je pense que la situation va s'améliorer.",
+        "spanish": "Creo que la situación va a mejorar.",
+        "note": "Pensamiento + indicatif"
+      },
+      {
+        "french": "Je ne suis pas sûr(e) que ce soit la bonne solution.",
+        "spanish": "No estoy seguro/a de que sea la solución correcta.",
+        "note": "Duda + subjonctif"
+      },
+      {
+        "french": "D'un côté... de l'autre côté...",
+        "spanish": "Por un lado... por otro lado...",
+        "note": "Structurer une argumentation"
+      },
+      {
+        "french": "Je suis tout à fait d'accord avec vous.",
+        "spanish": "Estoy totalmente de acuerdo con usted.",
+        "note": "Accord"
+      }
+    ],
+    "tips": [
+      "Para matizar: 'certes', 'cependant', 'toutefois', 'néanmoins', 'pourtant' = sin embargo, no obstante.",
+      "Contradicción educada: 'Oui, mais...' o 'C'est vrai que... cependant...'",
+      "Después de 'penser que', 'croire que', 'trouver que' en afirmativo: indicatif. En negativo o interrogativo: generalmente subjonctif."
+    ],
+    "pronunciation": "L'intonation joue un rôle crucial dans l'expression de l'opinion. Une voix montante peut indiquer le doute; une voix ferme, la certitude."
+  },
+  {
+    "id": 26,
+    "level": "B1",
+    "category": "Vocabulaire",
+    "title": "Les émotions et les sentiments",
+    "description": "Vocabulario para expresar emociones, sentimientos y estados de ánimo.",
+    "content": "Exprimer ses émotions est fondamental dans toute langue. En français, les émotions s'expriment de plusieurs façons: avec des verbes d'état (être content, avoir peur), des verbes d'action (adorer, détester), ou des expressions idiomatiques. Le lexique émotionnel est riche et nuancé en français.",
+    "examples": [
+      {
+        "french": "Je suis ravi(e) / content(e) / heureux(se)",
+        "spanish": "Estoy encantado/a / contento/a / feliz",
+        "note": "Joie"
+      },
+      {
+        "french": "Je suis triste / déprimé(e) / désolé(e)",
+        "spanish": "Estoy triste / deprimido/a / apenado/a",
+        "note": "Tristesse"
+      },
+      {
+        "french": "J'ai peur / Je suis effrayé(e) / anxieux(se)",
+        "spanish": "Tengo miedo / Estoy asustado/a / ansioso/a",
+        "note": "Peur"
+      },
+      {
+        "french": "Je suis en colère / furieux(se) / agacé(e)",
+        "spanish": "Estoy enojado/a / furioso/a / molesto/a",
+        "note": "Colère"
+      },
+      {
+        "french": "Je me sens bien / mal / fatigué(e)",
+        "spanish": "Me siento bien / mal / cansado/a",
+        "note": "Se sentir + adjectif"
+      }
+    ],
+    "tips": [
+      "La différence de nuance: 'content' (contento), 'heureux' (feliz), 'ravi' (encantado) — de menor a mayor intensidad de alegría.",
+      "Expresiones idiomáticas: avoir le cafard (estar deprimido, lit. 'tener la cucaracha'), avoir le cœur gros (estar triste), être aux anges (estar en las nubes de alegría).",
+      "Para preguntar por el estado de ánimo de alguien: 'Tu as l'air fatigué(e). Ça va ?' (Pareces cansado/a. ¿Estás bien?)"
+    ],
+    "pronunciation": "Le 'x' dans 'heureux' se prononce [z] en liaison: 'heureux et content' [øʁøz-e-kɔ̃tɑ̃]. La terminaison -euse pour le féminin: heureuse [øʁøz]."
+  },
+  {
+    "id": 27,
+    "level": "B1",
+    "category": "Grammaire",
+    "title": "Le conditionnel présent",
+    "description": "El condicional presente: para peticiones educadas, hipótesis y deseos.",
+    "content": "Le conditionnel présent s'utilise pour exprimer une demande polie, une hypothèse, un désir, ou la conséquence d'une condition. Il se forme avec l'infinitif du verbe + les terminaisons de l'imparfait: -ais, -ais, -ait, -ions, -iez, -aient. Les verbes irréguliers ont les mêmes radicaux qu'au futur simple.",
+    "examples": [
+      {
+        "french": "Je voudrais un café, s'il vous plaît.",
+        "spanish": "Quisiera un café, por favor.",
+        "note": "Demande polie"
+      },
+      {
+        "french": "Pourriez-vous m'aider ?",
+        "spanish": "¿Podría usted ayudarme?",
+        "note": "Demande très polie"
+      },
+      {
+        "french": "Si j'avais de l'argent, je voyagerais.",
+        "spanish": "Si tuviera dinero, viajaría.",
+        "note": "Hypothèse irréelle"
+      },
+      {
+        "french": "Tu devrais étudier plus.",
+        "spanish": "Deberías estudiar más.",
+        "note": "Conseil avec 'devoir'"
+      },
+      {
+        "french": "J'aimerais vivre à Paris.",
+        "spanish": "Me gustaría vivir en París.",
+        "note": "Désir avec 'aimer'"
+      }
+    ],
+    "tips": [
+      "El condicional es la forma más educada para hacer peticiones en francés — úsalo siempre en contextos formales.",
+      "Radicales irregulares: être→ser-, avoir→aur-, aller→ir-, faire→fer-, pouvoir→pourr-, vouloir→voudr-, venir→viendr-.",
+      "La structure Si + imparfait + conditionnel es equivalente al 'si + imperfecto subjuntivo + condicional' del español."
+    ],
+    "pronunciation": "Les terminaisons du conditionnel et de l'imparfait sont identiques: -ais [ɛ], -ait [ɛ], -aient [ɛ]. Seul le contexte les distingue."
+  },
+  {
+    "id": 28,
+    "level": "B1",
+    "category": "Vocabulaire",
+    "title": "Le travail et les professions",
+    "description": "Vocabulario laboral: profesiones, el lugar de trabajo y cómo hablar de tu carrera.",
+    "content": "Le vocabulaire du monde du travail est essentiel pour les interactions professionnelles et les conversations quotidiennes. En français, les professions s'utilisent généralement sans article après le verbe être: 'Je suis médecin'. De nombreuses professions ont une forme féminine qui n'est pas toujours standardisée.",
+    "examples": [
+      {
+        "french": "Je suis ingénieur(e) / médecin / professeur(e)",
+        "spanish": "Soy ingeniero/a / médico/a / profesor/a",
+        "note": "Professions sans article"
+      },
+      {
+        "french": "Je travaille dans une entreprise / un hôpital / une école",
+        "spanish": "Trabajo en una empresa / un hospital / una escuela",
+        "note": "Lugar de trabajo"
+      },
+      {
+        "french": "J'ai un entretien d'embauche demain.",
+        "spanish": "Tengo una entrevista de trabajo mañana.",
+        "note": "Entretien = entrevista"
+      },
+      {
+        "french": "Elle vient d'être promue.",
+        "spanish": "Ella acaba de ser promovida.",
+        "note": "Venir de + infinitif = acabar de"
+      },
+      {
+        "french": "Il cherche un emploi à temps plein.",
+        "spanish": "Él busca un empleo de tiempo completo.",
+        "note": "Temps plein vs temps partiel"
+      }
+    ],
+    "tips": [
+      "La féminisation des titres: en France, la tendance est de féminiser: une auteure, une professeure, une ingénieure.",
+      "'Chercher du travail' vs 'chercher un travail': du (partitif) = trabajo en general; un = un puesto específico.",
+      "Formule pour le CV: 'Je suis actuellement + poste dans + entreprise': 'Je suis actuellement développeur chez Google'."
+    ],
+    "pronunciation": "Dans 'ingénieur', le 'r' final est peu prononcé. 'Médecin' se prononce [medsɛ̃], pas [medəsɛ̃]."
+  },
+  {
+    "id": 29,
+    "level": "A2",
+    "category": "Grammaire",
+    "title": "Les questions en français",
+    "description": "Las tres formas principales de hacer preguntas en francés.",
+    "content": "En français, il existe trois façons de poser une question: 1) L'intonation montante (oral, informel), 2) 'Est-ce que' + ordre normal (oral, neutre), 3) L'inversion verbe-sujet (écrit, formel). La troisième méthode est la plus correcte grammaticalement mais la moins courante à l'oral.",
+    "examples": [
+      {
+        "french": "Tu parles français ? / Tu parles français !",
+        "spanish": "¿Hablas francés? (solo entonación)",
+        "note": "Méthode 1: Intonation"
+      },
+      {
+        "french": "Est-ce que tu parles français ?",
+        "spanish": "¿Hablas francés?",
+        "note": "Méthode 2: Est-ce que (neutre)"
+      },
+      {
+        "french": "Parles-tu français ?",
+        "spanish": "¿Hablas francés?",
+        "note": "Méthode 3: Inversion (formel)"
+      },
+      {
+        "french": "Où est-ce que tu habites ?",
+        "spanish": "¿Dónde vives?",
+        "note": "Mot interrogatif + est-ce que"
+      },
+      {
+        "french": "Quand part-il ?",
+        "spanish": "¿Cuándo se va él?",
+        "note": "Inversion avec pronom sujet"
+      }
+    ],
+    "tips": [
+      "Mots interrogatifs: qui (quién), que/quoi (qué), où (dónde), quand (cuándo), comment (cómo), pourquoi (por qué), combien (cuánto).",
+      "Avec inversion et un sujet nominal: 'Où Marie habite-t-elle ?' — on répète le sujet comme pronom.",
+      "La particule '-t-' s'ajoute entre le verbe et le pronom pour éviter deux voyelles ensemble: 'A-t-il faim ?'"
+    ],
+    "pronunciation": "L'intonation montante à la fin d'une phrase la transforme en question. La question avec 'est-ce que' a une intonation plus neutre."
+  },
+  {
+    "id": 30,
+    "level": "A1",
+    "category": "Vocabulaire",
+    "title": "L'heure et le temps",
+    "description": "Cómo decir la hora en francés y el vocabulario del tiempo.",
+    "content": "Pour demander l'heure: 'Quelle heure est-il ?' ou 'Vous avez l'heure ?' Pour répondre: 'Il est + heure'. Le français utilise parfois un système de 24 heures (transports, médias) et parfois le système de 12 heures (conversation). Les quarts d'heure: et quart, et demie, moins le quart.",
+    "examples": [
+      {
+        "french": "Il est huit heures.",
+        "spanish": "Son las ocho.",
+        "note": "Heure précise"
+      },
+      {
+        "french": "Il est huit heures et quart.",
+        "spanish": "Son las ocho y cuarto.",
+        "note": "Et quart = y cuarto"
+      },
+      {
+        "french": "Il est neuf heures moins le quart.",
+        "spanish": "Son las nueve menos cuarto.",
+        "note": "Menos cuarto"
+      },
+      {
+        "french": "Il est midi / minuit.",
+        "spanish": "Es mediodía / medianoche.",
+        "note": "Midi et minuit sont masculins"
+      },
+      {
+        "french": "Le train part à 14h30.",
+        "spanish": "El tren sale a las 2:30 pm.",
+        "note": "Système 24 heures"
+      }
+    ],
+    "tips": [
+      "Para el sistema de 24 horas: 'quatorze heures trente' = 14h30. Se usa en horarios oficiales.",
+      "En conversación: 'deux heures de l'après-midi' o simplemente 'deux heures' (con contexto).",
+      "Expresiones de tiempo: tôt (temprano), tard (tarde), en avance (con adelanto), en retard (con retraso), à l'heure (a tiempo)."
+    ],
+    "pronunciation": "La liaison dans 'il est onze heures' est obligatoire: [il-ɛ-t-ɔ̃z-œʁ]. 'Deux heures' se prononce [dø-z-œʁ] avec liaison."
+  },
+  {
+    "id": 31,
+    "level": "A2",
+    "category": "Vocabulaire",
+    "title": "La maison et les pièces",
+    "description": "Las habitaciones y partes de la casa en francés.",
+    "content": "Décrire son logement est une compétence pratique et fréquente. Le vocabulaire de la maison comprend les différentes pièces, les meubles et les prépositions de lieu. En France, les appartements sont très communs dans les villes, surtout à Paris.",
+    "examples": [
+      {
+        "french": "le salon, la salle à manger, la cuisine",
+        "spanish": "el salón, el comedor, la cocina",
+        "note": "Piezas principales"
+      },
+      {
+        "french": "la chambre, la salle de bains, les toilettes",
+        "spanish": "el dormitorio, el baño, el servicio",
+        "note": "Piezas privadas"
+      },
+      {
+        "french": "le couloir, l'entrée, le balcon, le jardin",
+        "spanish": "el corredor, la entrada, el balcón, el jardín",
+        "note": "Espacios de circulación"
+      },
+      {
+        "french": "J'habite dans un appartement au troisième étage.",
+        "spanish": "Vivo en un apartamento en el tercer piso.",
+        "note": "En France le rez-de-chaussée = planta baja"
+      },
+      {
+        "french": "Ma chambre donne sur la rue.",
+        "spanish": "Mi habitación da a la calle.",
+        "note": "Donner sur = dar a/hacia"
+      }
+    ],
+    "tips": [
+      "En Francia, el piso 1 (premier étage) equivale al segundo piso latinoamericano — el rez-de-chaussée (planta baja) es el cero.",
+      "'Les WC' o 'les toilettes' son separados del baño (salle de bains) en muchas casas y apartamentos franceses.",
+      "Para describir tu casa: 'J'habite dans un appartement / une maison / un studio de X pièces'."
+    ],
+    "pronunciation": "Le 's' dans 'bains' ne se prononce pas [bɛ̃]. 'Cuisine' se prononce [kɥizin], avec le son [ɥ]."
+  },
+  {
+    "id": 32,
+    "level": "B1",
+    "category": "Grammaire",
+    "title": "Les pronoms compléments COD et COI",
+    "description": "Los pronombres de objeto directo e indirecto en francés.",
+    "content": "Les pronoms compléments remplacent un nom pour éviter les répétitions. Les pronoms COD (Complément d'Objet Direct) remplacent un nom sans préposition: le, la, les, me, te, se, nous, vous. Les pronoms COI (Complément d'Objet Indirect) remplacent un nom introduit par 'à': lui, leur, me, te, se, nous, vous.",
+    "examples": [
+      {
+        "french": "Tu vois Marie ? → Oui, je la vois.",
+        "spanish": "¿Ves a Marie? → Sí, la veo.",
+        "note": "COD féminin"
+      },
+      {
+        "french": "Il mange le gâteau ? → Oui, il le mange.",
+        "spanish": "¿Come el pastel? → Sí, lo come.",
+        "note": "COD masculin"
+      },
+      {
+        "french": "Tu parles à Pierre ? → Oui, je lui parle.",
+        "spanish": "¿Le hablas a Pierre? → Sí, le hablo.",
+        "note": "COI 3ème personne"
+      },
+      {
+        "french": "Il nous explique la leçon.",
+        "spanish": "Él nos explica la lección.",
+        "note": "COI 1ère personne pluriel"
+      },
+      {
+        "french": "Je le lui donne.",
+        "spanish": "Yo se lo doy.",
+        "note": "COD + COI ensemble"
+      }
+    ],
+    "tips": [
+      "Orden de los pronombres: me/te/se/nous/vous → le/la/les → lui/leur → y → en.",
+      "Cuando hay dos pronombres: 'Je le lui donne' (COD antes de COI en 3ª persona).",
+      "En imperativo afirmativo, los pronombres van después del verbo: 'Donne-le-lui !' (¡Dáselo!)"
+    ],
+    "pronunciation": "Dans 'je le vois', la liaison [ʒə-l-vwa] est optionnelle mais recommandée. 'Lui' se prononce [lɥi], avec le son complexe [ɥ]."
+  },
+  {
+    "id": 33,
+    "level": "B1",
+    "category": "Vocabulaire",
+    "title": "Les voyages et le tourisme",
+    "description": "Vocabulario esencial para viajes, transporte y turismo.",
+    "content": "La France est le pays le plus visité au monde, avec plus de 90 millions de touristes par an. Le vocabulaire du tourisme est donc très utile. On utilise différentes prépositions selon le mode de transport: 'en avion' (en avión), 'en train' (en tren), 'à pied' (a pie), 'en voiture' (en auto).",
+    "examples": [
+      {
+        "french": "Je voudrais réserver une chambre d'hôtel.",
+        "spanish": "Quisiera reservar una habitación de hotel.",
+        "note": "Réservation"
+      },
+      {
+        "french": "Un aller-retour pour Lyon, s'il vous plaît.",
+        "spanish": "Un boleto de ida y vuelta a Lyon, por favor.",
+        "note": "Billets de train"
+      },
+      {
+        "french": "L'avion a du retard de deux heures.",
+        "spanish": "El avión tiene dos horas de retraso.",
+        "note": "Avoir du retard"
+      },
+      {
+        "french": "Où se trouve l'office de tourisme ?",
+        "spanish": "¿Dónde se encuentra la oficina de turismo?",
+        "note": "Se trouver = estar ubicado"
+      },
+      {
+        "french": "Je fais du tourisme / Je visite les monuments.",
+        "spanish": "Hago turismo / Visito los monumentos.",
+        "note": "Activités touristiques"
+      }
+    ],
+    "tips": [
+      "Transports: prendre le/la + moyen: 'prendre le train', 'prendre l'avion', 'prendre le métro'.",
+      "Passé de douane: 'Avez-vous quelque chose à déclarer ?' — 'Non, rien à déclarer.'",
+      "Tarjetas: 'Puis-je payer par carte ?' (¿Puedo pagar con tarjeta?) / 'Acceptez-vous les cartes étrangères ?'"
+    ],
+    "pronunciation": "Le mot 'tourisme' se prononce [tuʁism]. 'Réserver' [ʁezɛʁve] — noter le 's' qui se prononce [z] entre deux voyelles."
+  },
+  {
+    "id": 34,
+    "level": "B1",
+    "category": "Culture",
+    "title": "La culture et les arts en France",
+    "description": "La cultura francesa: arte, literatura, cine y costumbres.",
+    "content": "La France a une riche tradition culturelle. Elle est connue pour sa littérature (Voltaire, Flaubert, Proust), son cinéma (Nouvelle Vague, Godard, Truffaut), sa musique (Edith Piaf, Jacques Brel, Daft Punk), sa peinture (Monet, Renoir, Cézanne) et sa philosophie (Descartes, Sartre, Camus).",
+    "examples": [
+      {
+        "french": "Je suis en train de lire 'Le Petit Prince' de Saint-Exupéry.",
+        "spanish": "Estoy leyendo 'El Principito' de Saint-Exupéry.",
+        "note": "Être en train de = estar haciendo"
+      },
+      {
+        "french": "Allons voir une exposition au Louvre !",
+        "spanish": "¡Vayamos a ver una exposición en el Louvre!",
+        "note": "Invitation"
+      },
+      {
+        "french": "J'adore le cinéma français des années 60.",
+        "spanish": "Me encanta el cine francés de los años 60.",
+        "note": "La Nouvelle Vague"
+      },
+      {
+        "french": "Le 14 juillet, c'est la fête nationale française.",
+        "spanish": "El 14 de julio es la fiesta nacional francesa.",
+        "note": "Bastille Day"
+      },
+      {
+        "french": "Quelle est votre chanson française préférée ?",
+        "spanish": "¿Cuál es tu canción francesa favorita?",
+        "note": "Question culture"
+      }
+    ],
+    "tips": [
+      "La Nouvelle Vague (años 60) revolucionó el cine mundial — directores como Godard y Truffaut son esenciales para entender la cultura.",
+      "El 14 juillet (Bastille Day) incluye el desfile militar en los Champs-Élysées y fuegos artificiales en la Tour Eiffel.",
+      "Los museos en Francia son gratuitos el primer domingo de cada mes para residentes de la UE."
+    ],
+    "pronunciation": "Noms propres importants: Molière [mɔljɛʁ], Voltaire [vɔltɛʁ], Versailles [vɛʁsaj], Bordeaux [bɔʁdo]."
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "category": "Grammaire",
+    "title": "La voix passive",
+    "description": "La voz pasiva en francés: formación, uso y transformaciones.",
+    "content": "La voix passive permet de mettre l'accent sur l'objet de l'action plutôt que sur le sujet. Elle se forme avec: sujet + être (conjugué au temps voulu) + participe passé + (par + agent). Le participe s'accorde avec le nouveau sujet. Elle est moins courante en français parlé qu'en espagnol.",
+    "examples": [
+      {
+        "french": "Le repas est préparé par le chef.",
+        "spanish": "La comida es preparada por el chef.",
+        "note": "Présent passif"
+      },
+      {
+        "french": "La lettre a été écrite hier.",
+        "spanish": "La carta fue escrita ayer.",
+        "note": "Passé composé passif"
+      },
+      {
+        "french": "Ce roman sera publié en janvier.",
+        "spanish": "Esta novela será publicada en enero.",
+        "note": "Futur passif"
+      },
+      {
+        "french": "Les coupables ont été arrêtés.",
+        "spanish": "Los culpables fueron arrestados.",
+        "note": "Accord du participe"
+      },
+      {
+        "french": "Ce film a été réalisé par Truffaut.",
+        "spanish": "Esta película fue realizada por Truffaut.",
+        "note": "Agent exprimé"
+      }
+    ],
+    "tips": [
+      "En francés hablado, se prefiere el pronombre 'on': 'On a préparé le repas' en lugar de 'Le repas a été préparé'.",
+      "Con verbos de estado (couvrir, remplir), se usa 'de' en lugar de 'par': 'La table est couverte de fleurs'.",
+      "El participio pasado concuerda con el sujeto de la voz pasiva, como un adjetivo."
+    ],
+    "pronunciation": "Dans la voix passive, l'auxiliaire 'est' se prononce [ɛ] et non [e]. 'A été' se prononce [a-ete] avec les deux 'e' distincts."
+  },
+  {
+    "id": 36,
+    "level": "B2",
+    "category": "Grammaire",
+    "title": "Le subjonctif passé",
+    "description": "El subjuntivo pasado: para expresar acciones anteriores en modo subjuntivo.",
+    "content": "Le subjonctif passé s'utilise pour exprimer une action antérieure à celle de la proposition principale, quand le mode subjonctif est requis. Il se forme avec l'auxiliaire (avoir ou être) au subjonctif présent + participe passé. Son usage est identique à celui du subjonctif présent, mais l'action est passée.",
+    "examples": [
+      {
+        "french": "Je suis content qu'il soit venu.",
+        "spanish": "Estoy contento de que haya venido.",
+        "note": "Subjonctif passé avec ÊTRE"
+      },
+      {
+        "french": "Bien qu'elle ait fini, elle continue.",
+        "spanish": "Aunque haya terminado, continúa.",
+        "note": "Avec 'bien que'"
+      },
+      {
+        "french": "Je doute qu'ils aient compris.",
+        "spanish": "Dudo que hayan entendido.",
+        "note": "Doute"
+      },
+      {
+        "french": "Il est dommage que vous n'ayez pas vu ce film.",
+        "spanish": "Es una lástima que no hayan visto esa película.",
+        "note": "Regret"
+      },
+      {
+        "french": "Je ne crois pas qu'il ait dit cela.",
+        "spanish": "No creo que haya dicho eso.",
+        "note": "Négation + subjonctif passé"
+      }
+    ],
+    "tips": [
+      "Formation: que j'aie parlé, que tu aies parlé, qu'il ait parlé, que nous ayons parlé...",
+      "Con ÊTRE: que je sois allé(e), que tu sois allé(e), qu'il soit allé...",
+      "La différence avec le subjonctif présent: 'Je veux qu'il vienne' (présent/futur) vs 'Je suis content qu'il soit venu' (passé)."
+    ],
+    "pronunciation": "Le subjonctif passé de 'avoir' est 'que j'aie' [ke-ʒɛ], pas [ke-ʒaj]. La forme 'qu'il ait' [kil-ɛ] est distincte de 'qu'il est' [kil-ɛ] de l'indicatif."
+  },
+  {
+    "id": 37,
+    "level": "B2",
+    "category": "Grammaire",
+    "title": "La concordance des temps",
+    "description": "La concordancia temporal en el discurso indirecto en francés.",
+    "content": "Le discours indirect (style indirect) rapporte les paroles de quelqu'un sans les citer directement. Quand le verbe introducteur est au passé, les temps changent: présent→imparfait, passé composé→plus-que-parfait, futur→conditionnel, impératif→infinitif ou subjonctif.",
+    "examples": [
+      {
+        "french": "Il dit: 'Je suis fatigué' → Il dit qu'il est fatigué.",
+        "spanish": "Discours direct → indirect (verbe introducteur au présent)",
+        "note": "Aucun changement"
+      },
+      {
+        "french": "Elle a dit: 'Je pars demain' → Elle a dit qu'elle partait le lendemain.",
+        "spanish": "Futur devenu conditionnel, demain→le lendemain",
+        "note": "Présent→imparfait"
+      },
+      {
+        "french": "Il a demandé: 'Où vas-tu ?' → Il a demandé où j'allais.",
+        "spanish": "Interrogatif indirect sans inversion ni point d'interrogation",
+        "note": "Question directe→indirecte"
+      },
+      {
+        "french": "Elle a dit: 'Viens !' → Elle m'a dit de venir.",
+        "spanish": "Impératif→ de + infinitif",
+        "note": "Ordre indirect"
+      },
+      {
+        "french": "Il avait dit qu'il viendrait. (Mais il n'est pas venu.)",
+        "spanish": "Futur→conditionnel en discours indirect passé",
+        "note": "Concordance au passé"
+      }
+    ],
+    "tips": [
+      "Cambios de adverbios temporales: demain→le lendemain, hier→la veille, maintenant→alors/à ce moment-là, ici→là.",
+      "El discours indirect interrogatif usa si (para sí/no) o la pregunta directamente sin inversión ni '?'.",
+      "Con verbo introductor en presente, no hay cambio de tiempo: 'Il dit qu'il est content' (présent→présent)."
+    ],
+    "pronunciation": "La concordance des temps est principalement une structure écrite et formelle. À l'oral, on simplifie souvent: 'Il a dit qu'il part demain'."
+  },
+  {
+    "id": 38,
+    "level": "B2",
+    "category": "Vocabulaire",
+    "title": "Les expressions idiomatiques",
+    "description": "Las expresiones idiomáticas más usadas en francés cotidiano.",
+    "content": "Les expressions idiomatiques (ou idiomes) sont des expressions dont le sens global ne peut pas être déduit du sens de chacun de leurs éléments. Elles sont essentielles pour comprendre et parler français de façon naturelle. Beaucoup font référence au corps humain, aux animaux ou aux éléments de la nature.",
+    "examples": [
+      {
+        "french": "Avoir le cafard",
+        "spanish": "Estar deprimido/melancólico (lit: tener la cucaracha)",
+        "note": "Tristesse"
+      },
+      {
+        "french": "Casser les pieds à quelqu'un",
+        "spanish": "Fastidiar/molestar a alguien (lit: romper los pies)",
+        "note": "Irritation"
+      },
+      {
+        "french": "Il pleut des cordes.",
+        "spanish": "Llueve a cántaros. (lit: llueven cuerdas)",
+        "note": "Météo intense"
+      },
+      {
+        "french": "Avoir le coup de foudre",
+        "spanish": "Enamorarse a primera vista (lit: recibir el rayo)",
+        "note": "Amour"
+      },
+      {
+        "french": "Ce n'est pas la mer à boire.",
+        "spanish": "No es para tanto / No es el fin del mundo. (lit: no es el mar a beber)",
+        "note": "Relativiser"
+      },
+      {
+        "french": "Avoir d'autres chats à fouetter",
+        "spanish": "Tener cosas más importantes que hacer (lit: tener otros gatos que azotar)",
+        "note": "Priorités"
+      }
+    ],
+    "tips": [
+      "Las expresiones idiomáticas no se pueden traducir literalmente — hay que aprenderlas como unidades.",
+      "Muchas se relacionan con el cuerpo: 'donner un coup de main' (echar una mano), 'avoir le cœur sur la main' (ser generoso).",
+      "Para sonar natural, usa 2-3 expresiones idiomáticas por conversación — no las sobre-uses."
+    ],
+    "pronunciation": "Les expressions idiomatiques ont souvent des liaisons et élisions particulières. 'Il pleut des cordes' [il-plø-de-kɔʁd] — le 't' de 'pleut' ne se lie pas ici."
+  },
+  {
+    "id": 39,
+    "level": "B2",
+    "category": "Conversation",
+    "title": "Débattre et argumenter",
+    "description": "Vocabulario y estructuras para participar en debates y presentar argumentos.",
+    "content": "Participer à un débat en français nécessite des compétences rhétoriques spécifiques. La tradition française du 'débat' est très importante — savoir défendre une position, concéder un point, contredire avec élégance et nuancer son propos sont des compétences très valorisées.",
+    "examples": [
+      {
+        "french": "D'une part... D'autre part...",
+        "spanish": "Por un lado... Por otro lado...",
+        "note": "Structurer l'argumentation"
+      },
+      {
+        "french": "Certes, mais il faut également considérer...",
+        "spanish": "Ciertamente, pero también hay que considerar...",
+        "note": "Concession élégante"
+      },
+      {
+        "french": "Je m'inscris en faux contre cette affirmation.",
+        "spanish": "Me opongo rotundamente a esta afirmación.",
+        "note": "Contradiction forte"
+      },
+      {
+        "french": "Dans la mesure où... / Dans la mesure du possible...",
+        "spanish": "En la medida en que... / En la medida de lo posible...",
+        "note": "Nuance"
+      },
+      {
+        "french": "Force est de constater que...",
+        "spanish": "Hay que reconocer que... (expresión formal)",
+        "note": "Constat objectif"
+      }
+    ],
+    "tips": [
+      "Conectores argumentativos: de plus (además), cependant (sin embargo), ainsi (así), donc (por lo tanto), par conséquent (en consecuencia), en revanche (en cambio).",
+      "La dissertation francesa: thèse → antithèse → synthèse. Esta estructura es muy valorada en la educación.",
+      "Expresiones para ganar tiempo: 'C'est une bonne question...', 'Il faut bien distinguer entre...', 'Permettez-moi de nuancer...'"
+    ],
+    "pronunciation": "Le registre formel du débat utilise une intonation plus régulière et des pauses plus marquées. L'articulation est plus soignée: tous les 'e' muets sont prononcés."
+  },
+  {
+    "id": 40,
+    "level": "B2",
+    "category": "Culture",
+    "title": "La francophonie dans le monde",
+    "description": "El francés en el mundo: países, dialectos y la comunidad francófona global.",
+    "content": "Le français est parlé par plus de 300 millions de personnes dans le monde, sur 5 continents. Il est la langue officielle de 29 pays. L'Organisation Internationale de la Francophonie (OIF) regroupe 88 États. Le français est également une des 6 langues officielles de l'ONU.",
+    "examples": [
+      {
+        "french": "En Afrique: le Sénégal, la Côte d'Ivoire, le Cameroun, le Congo...",
+        "spanish": "El francés africano tiene sus propias expresiones y ritmos.",
+        "note": "Afrique francophone"
+      },
+      {
+        "french": "En Amérique: le Québec, la Louisiane, Haïti, la Guadeloupe...",
+        "spanish": "El joual québécois es muy diferente del francés europeo.",
+        "note": "Amériques"
+      },
+      {
+        "french": "Le québécois dit 'char' pour 'voiture' et 'magasiner' pour 'faire du shopping'.",
+        "spanish": "Diferencias dialectales francófonas.",
+        "note": "Dialectes"
+      },
+      {
+        "french": "Le verlan est un argot français: 'l'envers' → 'le verlan', 'femme' → 'meuf'.",
+        "spanish": "El verlan es el lunfardo francés — habla de los suburbios.",
+        "note": "Argot"
+      },
+      {
+        "french": "Vive la francophonie ! Le français continue à se développer.",
+        "spanish": "¡Viva la francofonía! El francés sigue expandiéndose.",
+        "note": "Célébration"
+      }
+    ],
+    "tips": [
+      "La Journée internationale de la Francophonie se celebra el 20 de marzo.",
+      "El francés africano es el que más hablantes suma en total — en muchos países africanos hay más hablantes que en Francia.",
+      "Palabras de origen francés en español: menú, hotel, debut, garage, bouquet, champagne, cuisine..."
+    ],
+    "pronunciation": "Les accents régionaux du français varient beaucoup: le français québécois garde des archaïsmes du XVIIe siècle. Le français africain est souvent considéré comme le plus clair à comprendre."
+  },
+  {
+    "id": 41,
+    "level": "A1",
+    "category": "Prononciation",
+    "title": "Les sons du français — Les voyelles",
+    "description": "Las vocales del francés: los sonidos que no existen en español.",
+    "content": "Le français possède des sons vocaliques qui n'existent pas en espagnol. Les plus difficiles pour les hispanophones sont: le 'u' [y] (entre 'i' et 'ou'), le 'eu' [ø] et [œ], les voyelles nasales [ɑ̃], [ɛ̃], [ɔ̃], [œ̃], et le 'e' muet [ə]. Maîtriser ces sons est essentiel pour être compris.",
+    "examples": [
+      {
+        "french": "u = [y]: tu, vu, pur, sur, bu",
+        "spanish": "Labios como para 'u' pero lengua como para 'i'",
+        "note": "Son unique au français"
+      },
+      {
+        "french": "eu = [ø]: feu, peu, veux, deux, bleu",
+        "spanish": "Labios redondos, lengua hacia arriba",
+        "note": "Voyelle arrondie"
+      },
+      {
+        "french": "an/en = [ɑ̃]: dans, enfant, vent, temps",
+        "spanish": "Vocal nasal — el aire sale por la nariz",
+        "note": "Voyelle nasale"
+      },
+      {
+        "french": "in/ain = [ɛ̃]: vin, pain, main, fin, plein",
+        "spanish": "Como 'ein' nasal",
+        "note": "Voyelle nasale"
+      },
+      {
+        "french": "on = [ɔ̃]: bon, son, fond, ton, long",
+        "spanish": "Como 'on' nasal, labios redondos",
+        "note": "Voyelle nasale"
+      }
+    ],
+    "tips": [
+      "El truco del 'u' francés: pronuncia 'i' y luego junta los labios como si dijeras 'u' sin mover la lengua.",
+      "Las vocales nasales: el siguiente 'n' o 'm' NO se pronuncia — 'nasaliza' la vocal anterior.",
+      "El 'e' mudo al final de las palabras generalmente no se pronuncia en el habla natural: 'une femme' → [yn-fam]."
+    ],
+    "pronunciation": "Exercice: Répète lentement puis vite: 'Lu, lu, lu — lune / Bu, bu, bu — buée / Tu, tu, tu — tube'. Le secret est dans la position des lèvres."
+  },
+  {
+    "id": 42,
+    "level": "A1",
+    "category": "Prononciation",
+    "title": "La liaison et l'élision",
+    "description": "Dos fenómenos fonéticos clave del francés: la liaison y l'élision.",
+    "content": "La liaison est le phénomène par lequel la consonne finale d'un mot se prononce avec la voyelle initiale du mot suivant. Elle peut être obligatoire, optionnelle ou interdite. L'élision remplace une voyelle finale par une apostrophe devant une voyelle ou 'h' muet. Ces phénomènes sont essentiels pour la fluidité.",
+    "examples": [
+      {
+        "french": "Liaison obligatoire: les amis [le-z-ami], nous avons [nu-z-avɔ̃]",
+        "spanish": "La 's' y 'z' final se pronuncian como 'z'",
+        "note": "Obligatoire"
+      },
+      {
+        "french": "Liaison interdite: et // elle, tu // es, un homme // et...",
+        "spanish": "Nunca hay liaison después de 'et'",
+        "note": "Interdite"
+      },
+      {
+        "french": "Élision: je + aime → j'aime, le + arbre → l'arbre",
+        "spanish": "La vocal final desaparece ante vocal",
+        "note": "Élision obligatoire"
+      },
+      {
+        "french": "de + eau → d'eau, ne + est → n'est, ce + est → c'est",
+        "spanish": "Contracciones comunes",
+        "note": "Élisions courantes"
+      },
+      {
+        "french": "Pas de liaison: les / haricots, les / hiboux",
+        "spanish": "La 'h' aspirada bloquea la liaison",
+        "note": "H aspiré vs muet"
+      }
+    ],
+    "tips": [
+      "La liaison obligatoire: artículo + nombre (les enfants), sujeto pronombre + verbo (nous avons), adjetivo + nombre (grands arbres).",
+      "H aspirada vs H muda: las palabras con H muda permiten elision y liaison (l'homme, les hommes), las con H aspirada no (*l'haricot ❌ → le haricot ✓).",
+      "El mejor ejercicio: escucha canciones en francés y marca dónde se hacen las liaisons."
+    ],
+    "pronunciation": "La liaison transforme le son de certaines consonnes: 's' et 'x' → [z], 'd' → [t], 'f' → [v] dans 'neuf ans' [nœv-ɑ̃]."
+  },
+  {
+    "id": 43,
+    "level": "A2",
+    "category": "Grammaire",
+    "title": "Les comparatifs et superlatifs",
+    "description": "Cómo comparar cosas y personas en francés.",
+    "content": "Pour comparer en français, on utilise 'plus... que' (más que), 'moins... que' (menos que) et 'aussi... que' (tan como). Le superlatif relatif utilise l'article défini + plus/moins + adjectif. Il y a des formes irrégulières importantes à connaître.",
+    "examples": [
+      {
+        "french": "Paris est plus grande que Lyon.",
+        "spanish": "París es más grande que Lyon.",
+        "note": "Plus + adjectif + que"
+      },
+      {
+        "french": "Ce film est moins intéressant que le précédent.",
+        "spanish": "Esta película es menos interesante que la anterior.",
+        "note": "Moins + adjectif + que"
+      },
+      {
+        "french": "Elle est aussi intelligente que son frère.",
+        "spanish": "Ella es tan inteligente como su hermano.",
+        "note": "Aussi + adjectif + que"
+      },
+      {
+        "french": "C'est le plus beau paysage que j'aie vu.",
+        "spanish": "Es el paisaje más bello que he visto.",
+        "note": "Superlatif + subjonctif"
+      },
+      {
+        "french": "bon → meilleur(e) / bien → mieux / mauvais → pire",
+        "spanish": "bueno→mejor / bien→mejor / malo→peor",
+        "note": "Formes irrégulières"
+      }
+    ],
+    "tips": [
+      "L'irrégularité de 'bon': 'plus bon' n'existe pas — on dit 'meilleur'. 'Le meilleur restaurant de la ville.'",
+      "Pour les adverbes: 'Il court vite' → 'Il court plus vite que moi' (mais: bien → mieux, mal → pire/plus mal).",
+      "Superlatif absolu (muy): 'très bon', 'extrêmement intéressant', 'vraiment magnifique'."
+    ],
+    "pronunciation": "La liaison dans 'plus élégant' donne [ply-z-elegɑ̃]. Mais dans 'plus' négatif, le 's' ne se lie pas: 'Je n'en veux plus' [ply]."
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "category": "Conversation",
+    "title": "La santé — Chez le médecin",
+    "description": "Vocabulario médico esencial y cómo comunicarse con un médico en francés.",
+    "content": "Savoir communiquer ses symptômes et comprendre un médecin est essentiel. En France, le système de santé (Sécurité Sociale) est réputé pour sa qualité. Pour un rendez-vous: 'Je voudrais prendre rendez-vous avec le Docteur X'. Décrire les symptômes utilise souvent 'avoir mal à' ou 'se sentir + adjectif'.",
+    "examples": [
+      {
+        "french": "J'ai mal à la gorge / à la tête / au ventre.",
+        "spanish": "Me duele la garganta / la cabeza / el estómago.",
+        "note": "Avoir mal à + partie du corps"
+      },
+      {
+        "french": "Je me sens fiévreux(se) / nauséeux(se).",
+        "spanish": "Me siento con fiebre / náuseas.",
+        "note": "Se sentir + adjectif"
+      },
+      {
+        "french": "Depuis combien de temps avez-vous ces symptômes ?",
+        "spanish": "¿Desde hace cuánto tiempo tiene estos síntomas?",
+        "note": "Depuis + durée"
+      },
+      {
+        "french": "Prenez ce médicament trois fois par jour.",
+        "spanish": "Tome este medicamento tres veces al día.",
+        "note": "Ordonnance"
+      },
+      {
+        "french": "Est-ce que c'est grave, docteur ?",
+        "spanish": "¿Es grave, doctor?",
+        "note": "Question patient"
+      }
+    ],
+    "tips": [
+      "Urgencias: SAMU = 15 (urgencias médicas), Pompiers = 18 (bomberos/urgencias), Numéro d'urgence européen = 112.",
+      "Depuis + présent para decir desde hace cuánto: 'J'ai mal à la tête depuis trois jours' (Me duele la cabeza desde hace tres días).",
+      "Una farmacia en Francia se identifica por una cruz verde iluminada — siempre hay una 'pharmacie de garde' abierta."
+    ],
+    "pronunciation": "Le mot 'médecin' se prononce [medsɛ̃], pas [medəsɛ̃]. 'Ordonnance' [ɔʁdɔnɑ̃s] — noter la voyelle nasale finale."
+  },
+  {
+    "id": 45,
+    "level": "B2",
+    "category": "Grammaire",
+    "title": "Le plus-que-parfait",
+    "description": "El pluscuamperfecto en francés: la acción que ocurrió antes de otra acción pasada.",
+    "content": "Le plus-que-parfait exprime une action passée qui s'est produite avant une autre action passée. Il se forme avec l'auxiliaire (avoir ou être) à l'imparfait + participe passé. C'est l'équivalent du pluscuamperfecto espagnol: 'había hecho', 'había llegado'.",
+    "examples": [
+      {
+        "french": "Quand je suis arrivé, il était déjà parti.",
+        "spanish": "Cuando llegué, él ya se había ido.",
+        "note": "Antériorité dans le passé"
+      },
+      {
+        "french": "J'avais déjà mangé quand tu m'as appelé.",
+        "spanish": "Ya había comido cuando me llamaste.",
+        "note": "Avec 'déjà'"
+      },
+      {
+        "french": "Elle ne savait pas qu'il avait menti.",
+        "spanish": "Ella no sabía que él había mentido.",
+        "note": "Dans une subordonnée"
+      },
+      {
+        "french": "Si j'avais su, je n'aurais pas accepté.",
+        "spanish": "Si hubiera sabido, no habría aceptado.",
+        "note": "Hypothèse passée (3ème type)"
+      },
+      {
+        "french": "Ils avaient terminé avant notre arrivée.",
+        "spanish": "Habían terminado antes de nuestra llegada.",
+        "note": "Avant + nom"
+      }
+    ],
+    "tips": [
+      "Formación: j'avais mangé, j'étais allé(e), tu avais fini, il était venu...",
+      "Hipótesis del pasado (si + plus-que-parfait + conditionnel passé): 'Si j'avais étudié, j'aurais réussi' (Si hubiera estudiado, habría aprobado).",
+      "Le plus-que-parfait permet de raconter une histoire au passé en montrant l'ordre des événements."
+    ],
+    "pronunciation": "Les formes 'avais' et 'était' conservent les terminaisons de l'imparfait: [avɛ], [etɛ]. La conjugaison avec ÊTRE: 'j'étais allé(e)' [ʒetɛ-z-ale]."
+  }
+]
